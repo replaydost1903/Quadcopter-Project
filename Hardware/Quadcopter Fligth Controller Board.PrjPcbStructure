@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Connector.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Main Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Power.SchDoc|SheetNumber=2
