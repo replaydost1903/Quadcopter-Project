@@ -1,0 +1,4 @@
+İşlemcinin sağ tarafına esc için konumlandırılacak pwm çıkış pini ->  ESC_PWM_OUT3
+İşlemcinin sol tarafına esc için konumlandırılacak pwm çıkış pini ->  ESC_PWM_OUT1
+İşlemcinin üst tarafına esc için konumlandırılacak pwm çıkış pini ->  ESC_PWM_OUT2
+İşlemcinin alt tarafına esc için konumlandırılacak pwm çıkış pini ->  ESC_PWM_OUT4

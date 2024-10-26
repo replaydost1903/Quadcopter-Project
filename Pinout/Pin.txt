@@ -1,0 +1,13 @@
+Uçuş Kontrolcüsünün Konnektör Seçimleri
+
+Uçuş Bilgisayarına Bağlanılacak Haberleşme Protokolleri
+	-USART
+	-I2C
+	-SPI
+	-CAN-BUS
+	-INTERRUPT
+
+Proje dışı kullanılacak Protokoller
+	-USART
+	-I2C
+	-ADC ve DAC

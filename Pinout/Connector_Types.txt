@@ -1,0 +1,25 @@
+I2C
+
+I2C1 -> BMI088
+I2C2 -> BMP390
+I2C3 -> INA219BIDCNR & IIS2MDCTR
+I2C4 -> Fligth Computer Connection
+
+SPI
+
+SPI1 -> M95M02-DRMN6TP (EEPROM)
+SPI3 -> Fligth Computer Connection
+SPI4 -> AT45DB161E-SSHFHC-T (FLASH)
+
+USART
+
+UART7 -> External Connection
+USART3 -> RS485
+USART6 -> Fligth Computer Connection
+USART2 -> External Connection
+UART8 -> External Connection
+
+ADC & DAC
+
+ADC -> 3 channel
+DAC -> 1 channel
